@@ -1,2 +1,2 @@
 # hello-world
-Class Demo
+Class Demo (Silly addition)
